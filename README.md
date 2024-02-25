@@ -1,6 +1,8 @@
 # ADIDAS-SALES
 Creating Dashboard Based on the Adidas sales dataset by using Advanced Power BI Visualisations and Filters.
 
+![picture alt](https://media.licdn.com/dms/image/D5622AQEjDmyVoqr9Ng/feedshare-shrink_2048_1536/0/1704883001821?e=1711584000&v=beta&t=GPeanLI6rwRo8MrheqgiFLhlBN3e6HzeAAF0uCQ6HHc)
+
 # Problem Statement:
 The objective of this assignment is to analyze the Adidas sales database and identify key insights to help improve sales performance and optimize business strategies. By examining the sales data, we aim to understand factors influencing sales, identify trends, and uncover opportunities for growth. By addressing these questions and exploring the Adidas sales database, we aim to provide actionable insights and recommendations.
 
